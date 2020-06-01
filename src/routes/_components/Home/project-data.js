@@ -8,7 +8,7 @@ export default function projectData() {
       image: {
         alt: 'Quickpoll,Vote app screenshot',
         name: 'QuickPoll',
-        src: '../../../../project-images/quickpoll.png',
+        src: '../../../../project-images/quickpoll.webp',
       },
       techstack: ['Svelte', 'Firebase'],
       links: {
@@ -27,7 +27,7 @@ export default function projectData() {
       image: {
         alt: 'Firenote,Note taking app screenshot',
         name: 'firenote',
-        src: '../../../../project-images/firenote.png',
+        src: '../../../../project-images/firenote.webp',
       },
       techstack: ['React', 'Typescript', 'Firebase'],
       links: {
@@ -46,7 +46,7 @@ export default function projectData() {
       image: {
         alt: 'wsftp-gui,instant messaging and file share app screenshot',
         name: 'wsftp-gui',
-        src: '../../../../project-images/wsftp-gui.png',
+        src: '../../../../project-images/wsftp-gui.webp',
       },
       techstack: ['React', 'Electron', 'Go'],
       links: {
@@ -61,7 +61,7 @@ export default function projectData() {
       image: {
         alt: 'memory game,in game screenshot',
         name: 'memory-game',
-        src: '.../../../../project-images/memory-game.png',
+        src: '.../../../../project-images/memory-game.webp',
       },
       techstack: ['Unity', 'C#'],
       links: {
