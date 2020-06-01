@@ -1,8 +1,8 @@
 {
   "background_color": "#ffffff",
   "theme_color": "#333333",
-  "name": "TODO",
-  "short_name": "TODO",
+  "name": "Alican Erdurmaz Homepage",
+  "short_name": "Alican",
   "display": "minimal-ui",
   "start_url": "/",
   "icons": [

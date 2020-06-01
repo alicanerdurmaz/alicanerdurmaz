@@ -23,7 +23,7 @@
     Whenever i have time, I prioritize my focus to learning
     <br />
     <span class="circle">&#x25CF;</span>
-    <span class="gradient">TDD , DDD , System Design , Software Architecture , DevOps & CI/CD</span>
+    <span class="gradient">TDD, DDD, System Design, Software Architecture, DevOps & CI/CD</span>
 
   </p>
 
@@ -34,7 +34,7 @@
 
 <style>
   div {
-    max-width: max-content;
+    width: fit-content;
     margin: 0 auto;
   }
   p {
@@ -55,8 +55,10 @@
     color: var(--secondary);
   }
   @media (max-width: 800px) {
-    p {
-      text-align: center;
+    div {
+      max-width: 400px;
+      margin: 0 auto;
+      padding-left: 1rem;
     }
   }
   .gradient {
