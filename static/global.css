@@ -8,11 +8,11 @@
   --secondary-accent: #ff0a78;
   --error: #e43f5a;
 
-  --progress-color4: #baf1a1;
-  --progress-color1: #f5a7a7;
-  --progress-color2: #ffd8a6;
-  --progress-color3: #63b7af;
-  --progress-color0: #ff0a78;
+  --color4: #baf1a1;
+  --color1: #f5a7a7;
+  --color2: #ffd8a6;
+  --color3: #63b7af;
+  --color5: #ff0a78;
 }
 
 html {
