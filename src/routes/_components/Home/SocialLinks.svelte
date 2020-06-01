@@ -36,37 +36,45 @@
 
 <style>
   .social-links-container {
+    max-width: 360px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    margin: 0 auto;
     margin-top: 1.5rem;
     margin-bottom: 1.2rem;
   }
 
   :global(.icon-social) {
+    transition: all 60ms ease;
     height: 32px;
     fill: #ffffff8e;
   }
+  :global(.icon-social):hover {
+    fill: #ffffff;
+    transform: scale(1.2);
+  }
 
   .link-resume {
-    font-size: 1.225rem;
-    font-family: 'Ubuntu', sans-serif;
+    transition: all 60ms ease;
+    font-size: 1rem;
     font-weight: 500;
-    text-rendering: optimizelegibility;
-    -webkit-font-smoothing: antialiased;
-    line-height: 1;
     border: 0;
     vertical-align: baseline;
     text-decoration: none;
     width: max-content;
     height: max-content;
-    padding: 5px 4px;
+    padding: 4px 4px;
     background: #ffffff8e;
-    border-radius: 0.3rem;
+    border-radius: 4px;
+    margin-bottom: 2px;
     color: #202124;
   }
+  .link-resume:hover {
+    background: #ffffff;
+    transform: scale(1.2);
+  }
   a {
-    margin: 0 1rem;
     cursor: pointer;
     user-select: none;
   }

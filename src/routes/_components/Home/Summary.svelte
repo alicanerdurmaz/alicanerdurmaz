@@ -6,7 +6,7 @@
     <span class="javascript">Javascript</span>
     frameworks like
     <br />
-    -
+    <span class="circle">&#x25CF;</span>
     <span class="react">React</span>
     ,
     <span class="svelte">Svelte</span>
@@ -22,6 +22,7 @@
     <br />
     Whenever i have time, I prioritize my focus to learning
     <br />
+    <span class="circle">&#x25CF;</span>
     <span class="gradient">TDD , DDD , System Design , Software Architecture , DevOps & CI/CD</span>
 
   </p>
@@ -36,7 +37,6 @@
     max-width: max-content;
     margin: 0 auto;
   }
-
   p {
     text-align: start;
     font-size: 1.225rem;
@@ -66,8 +66,8 @@
       90deg,
       rgba(245, 167, 167, 1) 0%,
       rgba(249, 216, 156, 1) 30%,
-      rgba(130, 196, 195, 1) 50%,
-      rgb(255, 255, 255) 90%
+      rgba(130, 196, 195, 1) 80%,
+      #0a97b0 95%
     );
     background-clip: text;
     -webkit-background-clip: text;
@@ -93,5 +93,8 @@
   }
   .cpp {
     color: rgba(255, 255, 255, 0.829);
+  }
+  .circle {
+    color: rgba(255, 255, 255, 0.651);
   }
 </style>

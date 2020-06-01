@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "alicanerdurmaz-homepage",
+  "description": "Alican Erdurmaz's Personal Website",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
@@ -32,5 +32,8 @@
     "rollup": "^2.3.4",
     "rollup-plugin-svelte": "^5.0.1",
     "rollup-plugin-terser": "^5.3.0"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
