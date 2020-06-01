@@ -75,6 +75,7 @@
     color: #efefef;
     text-align: start;
     line-height: 1.1;
+    flex: 1;
   }
   .techstack {
     color: #ffffff;
