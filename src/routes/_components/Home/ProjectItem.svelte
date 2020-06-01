@@ -33,6 +33,8 @@
 
 <style>
   .project-container {
+    display: flex;
+    flex-direction: column;
     color: #ffffff;
     margin: 0;
     border: 0;
@@ -77,6 +79,7 @@
   .techstack {
     color: #ffffff;
     margin: 0.5rem 0;
+    margin-top: 1rem;
     display: flex;
     justify-content: flex-start;
   }
@@ -95,6 +98,7 @@
     justify-content: center;
     align-items: center;
     padding: 0.5rem;
+    margin-top: auto;
   }
   .source-code {
     margin: auto;

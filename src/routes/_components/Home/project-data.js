@@ -3,8 +3,7 @@ export default function projectData() {
     {
       status: 'Demo',
       name: 'QuickPoll',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices dui ac ex semper tempor. Donec lacinia pulvinar leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;',
+      description: 'Fastest and easiest way to create real-time polls.',
       image: {
         alt: 'Quickpoll,Vote app screenshot',
         name: 'QuickPoll',
@@ -22,8 +21,7 @@ export default function projectData() {
     {
       status: 'Demo',
       name: 'Firenote',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices dui ac ex semper tempor. Donec lacinia pulvinar leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;',
+      description: 'Reliable, easy to use, fast and simple note-taking application.',
       image: {
         alt: 'Firenote,Note taking app screenshot',
         name: 'firenote',
@@ -41,8 +39,7 @@ export default function projectData() {
     {
       name: 'Wstfp-gui',
       status: 'WIP',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices dui ac ex semper tempor. Donec lacinia pulvinar leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;',
+      description: 'File transfer and instant messaging application over a local area network.',
       image: {
         alt: 'wsftp-gui,instant messaging and file share app screenshot',
         name: 'wsftp-gui',
@@ -56,8 +53,7 @@ export default function projectData() {
     {
       status: 'Published',
       name: 'Memory Game',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices dui ac ex semper tempor. Donec lacinia pulvinar leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;',
+      description: 'The most fun way to spend time and strengthen memory.',
       image: {
         alt: 'memory game,in game screenshot',
         name: 'memory-game',
