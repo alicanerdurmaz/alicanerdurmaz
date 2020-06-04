@@ -16,13 +16,20 @@
   <a href="https://codepen.io/AlicanErdurmaz/pens/public" target="_blank" title="Codepen" rel="noopener noreferrer">
     <CodepenSvg />
   </a>
-  <a href="https://www.linkedin.com/in/alicanerdurmaz/" target="_blank" title="Linkedin" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/alicanerdurmaz/" title="Linkedin" rel="noopener noreferrer">
     <LinkedinSvg />
   </a>
   <a href="mailto:alicanerdurmaz@gmail.com" title="alicanerdurmaz@gmail.com">
     <EmailSvg />
   </a>
-  <a download href="../../../../alican-erdurmaz-resume.pdf" title="View PDF Resume" id="resume" class="link-resume">
+  <a
+    href="../../../../alican-erdurmaz-resume.pdf"
+    title="View PDF Resume"
+    id="resume"
+    class="link-resume"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <span>Resume</span>
   </a>
 </nav>
