@@ -5,7 +5,8 @@
     with modern
     <span class="javascript">Javascript</span>
     frameworks like
-    <br />
+  </p>
+  <p>
     <span class="circle">&#x25CF;</span>
     <span class="react">React</span>
     ,
@@ -14,22 +15,21 @@
     <span class="node">Node...</span>
   </p>
   <p>
-    but I'm confident with
+    But, I'm confident with
     <span class="csharp">C#</span>
     ,
     <span class="cpp">C/C++</span>
     as well.
-    <br />
-    Whenever i have time, I prioritize my focus to learning
-    <br />
+  </p>
+  <p>Whenever i have time, I prioritize my focus to learning</p>
+  <p>
     <span class="circle">&#x25CF;</span>
     <span class="gradient">TDD, DDD, System Design, Software Architecture, DevOps & CI/CD</span>
-
   </p>
 
-  <span class="link-about">
+  <!-- <span class="link-about">
     <a href="/about">You can learn more about me here ›››</a>
-  </span>
+  </span> -->
 </div>
 
 <style>
@@ -43,7 +43,7 @@
     line-height: 1.3;
     color: #efefef;
   }
-  .link-about {
+  /* .link-about {
     text-align: start;
     display: block;
     line-height: 2;
@@ -53,7 +53,7 @@
   }
   a:hover {
     color: var(--secondary);
-  }
+  } */
   @media (max-width: 800px) {
     div {
       max-width: 400px;

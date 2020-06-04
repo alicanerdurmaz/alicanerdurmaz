@@ -22,14 +22,7 @@
   <a href="mailto:alicanerdurmaz@gmail.com" title="alicanerdurmaz@gmail.com">
     <EmailSvg />
   </a>
-  <a
-    href="https://github.com/alicanerdurmaz"
-    target="_blank"
-    title="View PDF Resume"
-    id="resume"
-    class="link-resume"
-    rel="noopener noreferrer"
-  >
+  <a download href="../../../../alican-erdurmaz-resume.pdf" title="View PDF Resume" id="resume" class="link-resume">
     <span>Resume</span>
   </a>
 </nav>
