@@ -23,7 +23,7 @@
     <EmailSvg />
   </a>
   <a
-    href="../../../../alican-erdurmaz-resume.pdf"
+    href="https://resume.alicanerdurmaz.now.sh/alican-erdurmaz-resume.pdf"
     title="View PDF Resume"
     id="resume"
     class="link-resume"
