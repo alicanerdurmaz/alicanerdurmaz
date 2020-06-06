@@ -4,6 +4,8 @@
   import TwitterSvg from '../../../SvgIcons/TwitterSvg.svelte'
   import LinkedinSvg from '../../../SvgIcons/LinkedinSvg.svelte'
   import EmailSvg from '../../../SvgIcons/EmailSvg.svelte'
+
+  export let globalAnalytics
 </script>
 
 <nav class="social-links-container">
@@ -24,6 +26,7 @@
   </a>
   <a
     href="https://resume.alicanerdurmaz.now.sh/alican-erdurmaz-resume.pdf"
+    on:click="{() => globalAnalytics.logEvent('resume_clicked')}"
     title="View PDF Resume"
     id="resume"
     class="link-resume"
