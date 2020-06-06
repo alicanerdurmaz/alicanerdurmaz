@@ -6,7 +6,7 @@
   <HandWave />
 </div>
 <div class="headline">
-  <p>Hi, I'm a Computer Science Student</p>
+  <p>Hi, I'm a Frontend Developer</p>
   <p>Living in Izmir, Turkey</p>
   <p>I love writing software to solve problems</p>
 </div>
