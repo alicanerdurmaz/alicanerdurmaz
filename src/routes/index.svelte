@@ -6,7 +6,7 @@
   import { onMount } from 'svelte'
 
   let globalAnalytics
-  console.log(process.env)
+
   onMount(async () => {
     const { analytics } = await import('../firebase.js')
     globalAnalytics = analytics
