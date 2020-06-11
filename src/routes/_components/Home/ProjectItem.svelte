@@ -56,9 +56,9 @@
   }
   img {
     width: 100%;
-    height: 100%;
+    height: 155px;
     object-fit: cover;
-    object-position: center center;
+    object-position: center;
   }
   h1 {
     font-size: 1.5rem;
