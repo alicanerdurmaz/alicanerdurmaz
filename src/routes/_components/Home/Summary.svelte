@@ -21,11 +21,7 @@
     <span class="cpp">C/C++</span>
     as well.
   </p>
-  <p>Whenever i have time, I prioritize my focus to learning</p>
-  <p>
-    <span class="circle">&#x25CF;</span>
-    <span class="gradient">TDD, DDD, System Design, Software Architecture, DevOps & CI/CD</span>
-  </p>
+
 
   <!-- <span class="link-about">
     <a href="/about">You can learn more about me here ›››</a>
