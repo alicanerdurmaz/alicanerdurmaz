@@ -2,6 +2,24 @@ export default function projectData() {
   return [
     {
       status: 'Published',
+      name: 'Computer Store',
+      description: 'MERN Stack E-Commerce App',
+      image: {
+        alt: 'Computer Store app screenshot',
+        name: 'QuickPoll',
+        src: '../../../../project-images/computer-store.webp',
+      },
+      techstack: ['React', 'NextJs', 'NestJs', 'MongoDB'],
+      links: {
+        github: 'https://github.com/alicanerdurmaz/computer-store',
+        release: {
+          platformName: 'Web',
+          url: 'https://computer-store.vercel.app/',
+        },
+      },
+    },
+    {
+      status: 'Published',
       name: 'Tv Series Chart',
       description: 'Data Visualization of Imdb Ratings.',
       image: {
