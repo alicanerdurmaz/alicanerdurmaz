@@ -5,7 +5,7 @@ I love writing software to solve problems 🥰
 - 🌱&nbsp;My recently focus on JAMStack with Modern Javascript frameworks like React, Svelte.
 
 
-&nbsp;
+
 ### 🛠 &nbsp;Tech Stack
 ![Typescript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=Typescript&logoColor=3178C6)&nbsp;
 ![JavasSript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=Javascript&logoColor=FCDC00)&nbsp;
@@ -27,13 +27,13 @@ I love writing software to solve problems 🥰
 ![Unity](https://img.shields.io/badge/-Unity-141a20?style=flat&logo=Unity&logoColor=ffffff)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 ![Alican Erdurmaz's github stats](https://github-readme-stats.vercel.app/api?username=alicanerdurmaz&count_private=true&theme=radical&show_icons=true&include_all_commits=true)&nbsp; 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicanerdurmaz&layout=compact&theme=radical)](https://github.com/alicanerdurmaz/github-readme-stats)
 
-&nbsp;
+
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-alicanerdurmaz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:alicanerdurmaz@gmail.com)
 [![twitter](https://img.shields.io/badge/-alicanerdurmazz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/alicanerdurmazz)
