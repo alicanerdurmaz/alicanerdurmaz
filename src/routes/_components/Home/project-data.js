@@ -2,6 +2,23 @@ export default function projectData() {
   return [
     {
       status: 'Published',
+      name: 'Fest Travel Calendar',
+      description: 'Digital calendar to keep track of Fest Travel events and take notes',
+      image: {
+        alt: 'Fest Travel Calendar app ScreenShot',
+        name: 'Fest Travel Calendar',
+        src: '../../../../project-images/fest-travel-calendar.webp',
+      },
+      techstack: ['TypeScript', 'NextJs', 'Firebase'],
+      links: {
+        release: {
+          platformName: 'Web',
+          url: 'https://fest-travel-calendar.vercel.app/',
+        },
+      },
+    },
+    {
+      status: 'Published',
       name: 'Computer Store',
       description: 'MERN Stack E-Commerce App',
       image: {

@@ -16,11 +16,13 @@
     {/each}
   </ul>
   <div class="project-links">
+    {#if project.links.github}
     <div class="source-code">
       <a href="{project.links.github}" target="_blank" rel="noopener noreferrer">
         <span>Github</span>
       </a>
     </div>
+    {/if}
     {#if project.links.release}
       <div class="app">
         <a href="{project.links.release.url}" target="_blank" rel="noopener noreferrer">
