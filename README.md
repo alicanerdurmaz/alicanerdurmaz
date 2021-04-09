@@ -1,8 +1,8 @@
 ## Hello there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=alcianerdurmaz&color=51c2d5">
 I love writing software to solve problems 🥰
 ### 👨🏼‍💻‍ &nbsp;About Me
-- 💻&nbsp;&nbsp;I'm currently studying Computer Science
-- 🌱&nbsp;My recently focus on JAMStack with Modern Javascript frameworks like React, Svelte.
+- 🌱&nbsp;My recently focus on GO
+- ✨&nbsp;I'm experienced in JAMStack with Modern Javascript frameworks like React, Svelte.
 
 
 
