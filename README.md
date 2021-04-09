@@ -31,7 +31,7 @@ I love writing software to solve problems 🥰
 ### ⚙️ &nbsp;GitHub Analytics
 ![Alican Erdurmaz's github stats](https://github-readme-stats.vercel.app/api?username=alicanerdurmaz&count_private=true&theme=radical&show_icons=true&include_all_commits=true)&nbsp; 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicanerdurmaz&layout=compact&theme=radical&count_private=true)](https://github.com/alicanerdurmaz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicanerdurmaz&layout=compact&theme=radical&count_private=true&langs_count=8&hide=objective-c,shaderlab,css,html)](https://github.com/alicanerdurmaz/github-readme-stats)
 
 
 ### 📫 &nbsp;Connect with Me
