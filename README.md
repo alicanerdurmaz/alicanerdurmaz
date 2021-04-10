@@ -23,9 +23,6 @@ I love writing software to solve problems 🥰
 ![PostCSS](https://img.shields.io/badge/-PostCSS-141a20?style=flat&logo=PostCSS&logoColor=1572B6)&nbsp;
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-141a20?style=flat&logo=c-sharp&logoColor=370091)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-141a20?style=flat&logo=Unity&logoColor=ffffff)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
