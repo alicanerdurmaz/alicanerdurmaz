@@ -14,14 +14,6 @@
     ,
     <span class="node">Node...</span>
   </p>
-  <p>
-    But, I'm confident with
-    <span class="csharp">C#</span>
-    ,
-    <span class="cpp">C/C++</span>
-    as well.
-  </p>
-
 
   <!-- <span class="link-about">
     <a href="/about">You can learn more about me here ›››</a>
