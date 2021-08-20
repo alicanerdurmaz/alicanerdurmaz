@@ -103,23 +103,5 @@ export default function projectData() {
         github: 'https://github.com/alicanerdurmaz/wsftp-gui',
       },
     },
-    {
-      status: 'Published',
-      name: 'Memory Game',
-      description: 'The most fun way to spend time and strengthen memory.',
-      image: {
-        alt: 'memory game,in game screenshot',
-        name: 'memory-game',
-        src: '.../../../../project-images/memory-game.webp',
-      },
-      techstack: ['Unity', 'C#'],
-      links: {
-        github: 'https://github.com/alicanerdurmaz/MemoryGame-MadeWithUnity',
-        release: {
-          platformName: 'Google Play',
-          url: 'https://play.google.com/store/apps/details?id=com.AlicanErdurmaz.MemoryGame',
-        },
-      },
-    },
   ]
 }
