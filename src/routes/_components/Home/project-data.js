@@ -2,6 +2,23 @@ export default function projectData() {
   return [
     {
       status: 'Published',
+      name: 'Rock Paper Scissors Lizard Spock',
+      description: 'Multiplayer game',
+      image: {
+        alt: 'Rock Paper Scissors Lizard Spock app ScreenShot',
+        name: 'Rock Paper Scissors Lizard Spock',
+        src: '../../../../project-images/rpsls.webp',
+      },
+      techstack: ['TypeScript', 'NextJs', 'Go'],
+      links: {
+        release: {
+          platformName: 'Web',
+          url: 'https://game-rpsls.vercel.app',
+        },
+      },
+    },
+    {
+      status: 'Published',
       name: 'Fest Travel Calendar',
       description: 'Digital calendar to keep track of Fest Travel events and take notes',
       image: {
