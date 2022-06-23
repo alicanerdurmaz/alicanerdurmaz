@@ -1,10 +1,5 @@
 ## Hello there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=alcianerdurmaz&color=51c2d5">
 I love writing software to solve problems 🥰
-### 👨🏼‍💻‍ &nbsp;About Me
-
-- ✨&nbsp;My recently focus on JAMStack with Modern Javascript frameworks like React, Svelte.
-
-
 
 ### 🛠 &nbsp;Tech Stack
 ![Typescript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=Typescript&logoColor=3178C6)&nbsp;
@@ -14,9 +9,9 @@ I love writing software to solve problems 🥰
 ![next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=Node.js&logoColor=75AC63)&nbsp;
 ![nestjs](https://img.shields.io/badge/-NestJs-141a20?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![go](https://img.shields.io/badge/Go-141a20?style=flat&logo=go&logoColor=00ADD8)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=Mongodb&logoColor=75AC63)&nbsp;
 ![graphql](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql&logoColor=E00097)&nbsp;
-![serverless](https://img.shields.io/badge/-serverless-141a20?style=flat&logo=serverless&logoColor=FD5750)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=Firebase&logoColor=FCDC00)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
