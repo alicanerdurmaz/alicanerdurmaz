@@ -25,7 +25,7 @@
     <EmailSvg />
   </a>
   <a
-    href="https://resume.alicanerdurmaz.now.sh/alican-erdurmaz-resume.pdf"
+    href="https://www.alicanerdurmaz.com/resume-alican-erdurmaz.pdf"
     on:click="{() => globalAnalytics.logEvent('resume_clicked')}"
     title="View PDF Resume"
     id="resume"
