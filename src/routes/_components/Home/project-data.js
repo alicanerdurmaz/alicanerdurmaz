@@ -11,6 +11,7 @@ export default function projectData() {
       },
       techstack: ['TypeScript', 'NextJs', 'Go'],
       links: {
+        github: 'https://github.com/alicanerdurmaz/rock-paper-scissors-lizard-spock-multiplayer',
         release: {
           platformName: 'Web',
           url: 'https://game-rpsls.vercel.app',
